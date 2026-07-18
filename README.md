@@ -254,5 +254,6 @@ dotnet ef database update
 # Author
 
 I Putu Adhika Yoga Kertayasa
+240010106
 
 Sistem Komputer
